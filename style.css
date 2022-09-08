@@ -1,0 +1,15 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.header {
+    color: #E94560;
+}
+
+.subheader {
+    color: #533483;
+}
+
+.bio {
+    color: #191919;
+}
